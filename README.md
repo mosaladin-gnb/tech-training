@@ -2,7 +2,6 @@
 
 Interactive, self-paced resources for a workplace technology training series. Each session gets one page: the facilitator presents from it live, and the same page is the reference afterwards.
 
-**Live:** https://mosaladin-gnb.github.io/tech-training/
 
 ## What these are
 
